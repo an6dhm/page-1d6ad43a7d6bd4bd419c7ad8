@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bedd1f3678482a6ce2af3dd2",
+  "owner": "an6dhm",
+  "repo": "page-1d6ad43a7d6bd4bd419c7ad8",
+  "title": "玉兔",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1d6ad43a7d6bd4bd419c7ad8",
+      "a": "玉兔",
+      "b": "2027官方最新地址导航",
+      "entity": "玉兔",
+      "brand": "玉兔",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8f7692e17d82455d0cca61b2dec056176b476c97d2470cd176fcad2af822b73d",
+      "content": {
+        "primary_entity": "玉兔",
+        "keyword1": "玉兔",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，玉兔提供基础版、旗舰版与团队版三档方案，月付分别为 ¥15、¥35、¥85，按年付可享 ¥150、¥350、¥850 的优惠价格。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并带 IPLC 专线，团队版每月 1000GB 支持 20 台设备，适合多人协同。设备端可根据系统选择订阅客户端，导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "稳定连接，轻松选择套餐",
+          "AI_HERO_INTRO": "玉兔为跨境访问、流媒体观看与游戏加速提供多档订阅方案，覆盖个人到团队使用场景。从流量、设备数量到节点类型，都可以按实际需求选择，配合常见客户端的订阅导入方式，快速完成配置。",
+          "AI_VISUAL_TITLE": "玉兔加速器套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐灵活对比",
+          "AI_HIGHLIGHT_2": "流量设备按需匹配",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅导入",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "根据流量、设备数与节点类型选择适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备，覆盖单人上网到小型团队协作的不同需求。",
+          "AI_FEATURE_TITLE_2": "旗舰版专线优化",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，配合每月 300GB 流量，适合对延迟和画质有要求的用户。",
+          "AI_FEATURE_TITLE_3": "按周期订阅更划算",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付价格更优惠：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按实际使用时长选择。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同订阅客户端，选择与设备匹配的版本即可开始配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档方案在流量、设备数量、节点类型和服务支持上逐级提升。基础版满足轻量使用，旗舰版侧重流媒体与游戏加速，团队版面向多设备与定制路由场景。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择服务、确认适配要求、导入订阅，三步完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版和团队版的流量、设备数量与价格，确定符合自身使用强度的方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型是否匹配，了解同时在线设备数与订阅周期限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的订阅文档导入订阅信息，完成后在客户端内检查节点连接状态。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_CLOSING_TEXT": "按流量和设备数量挑选合适方案，配合客户端订阅导入即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "玉兔三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版¥15/月含100GB流量、3台设备；旗舰版¥35/月含300GB流量、5台设备并含IPLC专线；团队版¥85/月含1000GB流量、20台设备。",
+          "AI_FAQ_QUESTION_2": "一个账号可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量可能导致连接受限，建议按实际终端数选档。",
+          "AI_FAQ_QUESTION_3": "年付相比月付有什么变化？",
+          "AI_FAQ_ANSWER_3": "年付一次性覆盖12个月，基础版约150元/年，旗舰版约350元/年，团队版约850元/年，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端的使用文档中查看导入说明，按指引填入订阅信息即可。不同系统的客户端操作路径略有差异。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "每月流量在套餐内使用，超出后可能影响连接速度或需要更换更高档套餐。建议根据日常用量选择合适档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vrzouzn.cn",
+    "host": "vrzouzn.cn"
+  },
+  "file_hashes": {
+    "index.html": "4d7c3f54eccf57d2903ab8a256c9a2a6da7c15fb4f8e418dc9833f42c5787021",
+    "sitemap.xml": "baae4e2062cd4d9cc58c6bad26d29ef6e203925d5eee9ce71b38fce992a30085",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "135ea337a35ac5cb7419c24d06c970446ecfa20045444df741c78471ec3e72ee",
+    "robots.txt": "c240168c781d13ef81a21ef1979a9de86a5158a583d3faefc47b03fbd377a32c",
+    "93b24eab2b4b296a06d54991c0f8b6d3.txt": "9a78b3b31d73a0dbceeb86f08a9bceb84217728e8d3faf7880053629cd8f5b5c"
+  },
+  "revision": "ee5ca11dbb728f89c87fe0527c52d674587681a8f8db14590ee877e46000336b"
+}
